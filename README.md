@@ -3,7 +3,7 @@
 <p align="center">Welcome to my portfolio! Thank you for taking the time to check out some of my work</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreeyuh77&label=Profile%20views&color=0e75b6&style=flat" alt="kreeyuh77" /> </p>
 
-- 📝 I'm a full time student with three part time jobs. I teach programming at Code Ninjas, I am a teaching assistant for the AI for Game Programming class at my college, and on the weekends, I give horse back riding lessons! (Anyone notice the trend? I love to learn and teach!)
+<!--📝 I'm a full time student with three part time jobs. I teach programming at Code Ninjas, I am a teaching assistant for the AI for Game Programming class at my college, and on the weekends, I give horse back riding lessons! (Anyone notice the trend? I love to learn and teach!)-->
 
 - 🤝 I’m looking for **an internship position in Summer 2022!**
 
