@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kriya Naidu</h1>
 <h3 align="center">A Burnett Honors Scholar at the University of Central Florida</br>Majoring in Computer Science and minoring in Mathematics</h3>
-
+<p align="center">Welcome to my portfolio! Thank you for taking the time to check out some of my work</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreeyuh77&label=Profile%20views&color=0e75b6&style=flat" alt="kreeyuh77" /> </p>
 
 - 📝 I'm a full time student with three part time jobs. I teach programming at Code Ninjas, I am a teaching assistant for the AI for Game Programming class at my college, and on the weekends, I give horse back riding lessons! (Anyone notice the trend? I love to learn and teach!)
@@ -10,6 +10,7 @@
 - 📫 How to reach me: **kriyanaidu7@gmail.com**
 
 - 📄 Learn more about my skills and experiences in my [resume](https://drive.google.com/file/d/1AhECkdWLp0CSvy1pfkay4i-wk6OFHIWD/view?usp=sharing)
+- 👨‍💻 A few of my significant projects are located [here](https://github.com/kreeyuh77?tab=repositories)
 
 - ⚡ Fun fact: When I'm not behind a computer programming, I'm at the barn riding horses!
 
