@@ -5,7 +5,7 @@
 
 <!--📝 I'm a full time student with three part time jobs. I teach programming at Code Ninjas, I am a teaching assistant for the AI for Game Programming class at my college, and on the weekends, I give horse back riding lessons! (Anyone notice the trend? I love to learn and teach!)-->
 
-- 🤝 I’m looking for **an internship position for Summer 2022!**
+- 🤝 I’m looking for **internship positions or work opportunites!**
 
 - 📫 How to reach me: **kriyanaidu7@gmail.com**
 
