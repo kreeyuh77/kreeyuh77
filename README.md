@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **kriyanaidu7@gmail.com**
 
-- 📄 Learn more about my skills and experiences in my [resume](https://drive.google.com/file/d/1AhECkdWLp0CSvy1pfkay4i-wk6OFHIWD/view?usp=sharing) or on my  [LinkedIn](https://www.linkedin.com/in/kriyanaidu/)
+- 📄 Learn more about my skills and experiences in my [resume](https://docs.google.com/document/d/1_dUyR1jmTgAueTFKVZ7_9sC0C0QnvXQ2d_wOiZap_4M/edit?usp=sharing) or on my  [LinkedIn](https://www.linkedin.com/in/kriyanaidu/)
 - 👨‍💻 A few of my significant projects are located [here](https://github.com/kreeyuh77?tab=repositories)
 
 - ⚡ Fun fact: When I'm not behind a computer programming, I'm at the barn riding horses!
